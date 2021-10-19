@@ -1,0 +1,5 @@
+rootProject.name = "Labeltest"
+include ':app'
+include ':labelred'
+include ':labelgreen'
+include ':labelblue'
